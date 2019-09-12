@@ -33,7 +33,16 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -157,9 +166,19 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\Clinica.BL.CategoriasBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.CitasBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.EspecialidadesBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.EstadosBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.JornadasBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.Medico.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.MedicosBL.datasource" />
     <None Include="Properties\DataSources\Clinica.BL.Paciente.datasource" />
     <None Include="Properties\DataSources\Clinica.BL.PacientesBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.RecetasBL.datasource" />
     <None Include="Properties\DataSources\Clinica.BL.SeguridadBL.datasource" />
+    <None Include="Properties\DataSources\Clinica.BL.TiposBL.datasource" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

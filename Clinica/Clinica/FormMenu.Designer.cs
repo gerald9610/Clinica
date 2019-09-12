@@ -68,8 +68,8 @@
             this.citasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.pacientesToolStripMenuItem,
             this.medicosToolStripMenuItem,
-            this.citasToolStripMenuItem1,
-            this.resetariosToolStripMenuItem});
+            this.resetariosToolStripMenuItem,
+            this.citasToolStripMenuItem1});
             this.citasToolStripMenuItem.Name = "citasToolStripMenuItem";
             this.citasToolStripMenuItem.Size = new System.Drawing.Size(45, 20);
             this.citasToolStripMenuItem.Text = "Citas";

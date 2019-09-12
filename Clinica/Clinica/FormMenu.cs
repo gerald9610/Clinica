@@ -98,8 +98,12 @@ namespace Clinica
 
         private void salirToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Esta Saliendo del Programa");
-            Application.Exit();
+            var salida = MessageBox.Show("¿Desea salir del Programa?", "Salir", MessageBoxButtons.YesNo);
+            if (salida == DialogResult.Yes)
+            {
+                Application.Exit();
+            }
+            
         }
     }
 }

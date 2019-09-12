@@ -36,13 +36,21 @@ C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.Fo
 C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormReporteCitas.resources
 C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.dll
 C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\CDI PRINCIPAL\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe.config
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.exe
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.pdb
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.exe
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.pdb
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.dll
+C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.dll
+C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\Clinica.BL.pdb
+C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.xml
+C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormAcercaPrograma.resources
 C:\Users\ga\Source\Repos\Clinica\Clinica\Clinica\obj\Debug\Clinica.FormCitas.resources

@@ -35,6 +35,10 @@ namespace Clinica
             usuario = textBox1.Text;
             contrasena = textBox2.Text;
 
+            button1.Enabled = false;
+            button1.Text = "Verificando...";
+            Application.DoEvents();
+
             var resultado = _seguridad.Autorizar(usuario, contrasena);
 
             if (resultado == true)
@@ -47,7 +51,17 @@ namespace Clinica
                 textBox1.Text = ""; //Codigo para borrar usuario
                 textBox2.Text = ""; //Codigo para borrar contraseña
                 textBox1.Focus(); //Codigo para volver al Textbox Usuario
+                button1.Enabled = true;
+                button1.Text = "Ingresar";
 
+            }
+        }
+
+        private void textBox1_KeyDown(object sender, KeyEventArgs e)
+        {
+            if (e.KeyCode == Keys.Enter)
+            {
+                Application.DoEvents();
             }
         }
 
